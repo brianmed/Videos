@@ -66,11 +66,11 @@ use Mojo::IOLoop::ReadWriteFork;
 
 helper sql => sub { state $sql = Mojo::SQLite->new('sqlite:_videos.sqlite') };
  
-app->minion->add_task(transcode => sub {
-    my ($job, @args) = @_;
- 
-    $job->finish;
-});
+### app->minion->add_task(transcode => sub {
+###     my ($job, @args) = @_;
+###  
+###     $job->finish;
+### });
 
 get '/' => sub {
     my $c = shift;
