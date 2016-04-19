@@ -60,6 +60,7 @@ use Cwd;
 use File::Spec;
 use FFmpeg::Stream::Helper;
 use Mojo::IOLoop::ReadWriteFork;
+use Mojo::SQLite;
 
 # plugin Minion => { SQLite => 'sqlite:_videos.sqlite' };
 # plugin ForkCart => { process => ["minion"] };
