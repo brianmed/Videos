@@ -9,8 +9,7 @@ $ perl videos.pl setup
 $ perl videos.pl daemon
 $ # Visit http://127.0.0.1:3000
 ```
-
-<img align="middle" src="http://bmedley.org/developers.gif" width="50%" height="50%">
+[![Videos](http://bmedley.org/videos_developers.gif)](http://bmedley.org/videos_developers.gif)
 
 Released under the same terms as Perl itself.
 
