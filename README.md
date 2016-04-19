@@ -13,7 +13,7 @@ $ # Visit http://127.0.0.1:3000
 
 ### Example session
 
-[![Videos](http://bmedley.org/videos_developers.gif)](http://bmedley.org/videos_developers.gif)
+![Videos](http://bmedley.org/videos_devlopers.gif)
 
 Released under the same terms as Perl itself.
 
